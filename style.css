@@ -1,0 +1,143 @@
+.logo{
+    width:45px;
+    height:50px;
+}
+.logotext{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.start_btn{
+    background-color: rgb(35, 142, 192);
+    border:1px solid  rgb(35, 142, 192);
+    border-radius: 20px;
+}
+.sec1-text{
+    color:rgb(35, 142, 192);
+}
+.textcolor{
+    color:rgb(67, 67, 67);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.navitems{
+    font-size: large;
+    color: black;
+}
+.navitems :hover{
+    color:rgb(35, 142, 192);
+}
+.img-fluid1{
+    width: 600px;
+    height: 620px;
+}
+.icon1{
+    background-color:rgb(159, 205, 226);
+}
+.clienticon{
+    width:100px;
+    height:80px;
+    margin:45px;
+}
+.img1{
+    width:200px;
+    height:200px;
+}
+.imgbox{
+    display: block;
+    width:50%;
+    margin:auto;
+}
+.sec1-last{
+    width:100%;
+    margin-left:0px !important;
+    margin-right:0px !important;
+}
+.acomp1{
+    width:280px;
+    height: 420px;
+    border-radius: 10px;
+}
+.acomp2{
+    width:250px;
+    height: 200px;
+    border-radius: 10px;
+}
+.line1{
+    width:130px;
+    border:2px solid rgb(35, 142, 192);
+}
+.lists{
+    font-size: 18px;
+    line-height: 30px;
+}
+.tick_icon{
+    color:rgb(73, 84, 96);
+}
+.arrowright{
+    color:white;
+}
+.readmore{
+    background-color: rgb(35, 142, 192);
+}
+.feature-1{
+    height:500px;
+    width:500px;
+    border-radius: 10px;
+}
+.feature-2{
+    height:350px;
+    width:450px;
+    border-radius: 10px;
+}
+.feature-3{
+    height:350px;
+    width:480px;
+    border-radius: 10px;
+}
+.featureicon{
+    height:120px;
+    width:100px;
+}
+.featuresbg{
+    background-color: rgb(247, 248, 252);
+    border-radius: 10px;
+}
+.service1{
+    width:100px;
+    height:90px;
+    background-color:rgb(187, 215, 244);
+    border:1px solid rgb(35, 142, 192);
+    border-radius: 8px;
+}
+.service_img{
+    width: 500px;
+    height: 450px;
+}
+.btn-width{
+    width: 250px;
+}
+.testinomial_pics{
+    width:100px;
+    height:100px;
+}
+
+@media only screen  and (max-width:767px){
+    .feature-1{
+        width:370px;
+        height:350px;
+    }
+    .feature-2{
+        width:370px;
+        height:350px;
+    }
+    .feature-3{
+        width:370px;
+        height:350px;
+    }
+    .featurebg1{
+       justify-content: center;
+       width:370px;
+       height:350px;
+    }
+   
+ }
+   
